@@ -18,9 +18,13 @@ Players take turns sowing their seeds. The sowing is performed in the following 
 Below is an example of sowing:</br>
 ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/3.jpg)</br>
 A player takes nine seeds from his pit "g" and sows them counter-clockwise.
-Note that the first seed falls back to the pit "g".
-*If the last sown seed  lands in a pit on the opponent's side and brings the total number of seeds in the pit to the even number then all seeds from the pit are captured by the player and are moved to the player's kazan.</br>
+Note that the first seed falls back to the pit "g".</br>
+* If the last sown seed  lands in a pit on the opponent's side and brings the total number of seeds in the pit to the even number then all seeds from the pit are captured by the player and are moved to the player's kazan.</br>
 ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/4.jpg)</br>
 The last sown seed lands in a pit on the opponent's side and brings
 the total number of seeds in the pit to the even number (10).
 All these 10 seeds are moved to the player's kazan.</br>
+* If the last sown seed  lands in a pit on the opponent's side and brings the total number of seeds in the pit to three then all seeds from the pit are captured by the player and are moved to the player's kazan and the pit turns into the player's tuzdik ("sacred place" in Kazakh; or tuz in Kyrgyz, which means "salt"). There are several cases when tuzdik is not created:</br>
+  - If the player has created one tuzdik already.</br>
+  - The last pit of the opponent (his ninth or rightmost pit) cannot be turned into a tuzdik.</br>
+  - A tuzdik cannot be created if it is symmetrical to the opponent's one (for example, if your third pit is already a tuzdik, you cannot turn the third pit of your opponent into one).</br>
