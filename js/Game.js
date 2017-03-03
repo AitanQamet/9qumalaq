@@ -1,5 +1,9 @@
-﻿/**
- * Created by aytsoft on 2016/9/9 14:56.
+/*!
+ * Toguz Kumalak ("nine pebbles")
+ * Copyright (c) 2017 Aytan
+ * @Author:   Aytan Hamet
+ * @E-mail:   aytsoft@gmail.com
+ * @build:   Mon, 27 Feb 2017 15:42:26 GMT, BeiJing.
  */
 (function () {
     //游戏类。最最核心的类。

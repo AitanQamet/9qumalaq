@@ -1,5 +1,9 @@
-﻿/**
- * Created by aytsoft on 2016/9/6 15:46.
+/*!
+ * Toguz Kumalak ("nine pebbles")
+ * Copyright (c) 2017 Aytan
+ * @Author:   Aytan Hamet
+ * @E-mail:   aytsoft@gmail.com
+ * @build:   Mon, 27 Feb 2017 15:42:26 GMT, BeiJing.
  */
 (function () {
     //静态资源管理类，这个类用于加载所有的静态图片、音乐。
