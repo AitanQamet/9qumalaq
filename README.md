@@ -1,4 +1,7 @@
 # Toguz Kumalak ("nine pebbles")
+
+### Тоғыз-құмалақ — қазақтың ұлттық дәстүрлі ойындарының бірі, ақыл-ой ойыны.
+
 ##### Toguz Kumalak ("nine pebbles") is the Kazakh name of a Mancala game also known as Toguz Korgool ("nine dung balls") in Kyrgyz. The number 'nine' has a high significance in the folk beliefs and mythology of Central Asian peoples. It was considered auspicious. </br>
 [more here](https://en.wikipedia.org/wiki/Toguz_korgol)   
 
