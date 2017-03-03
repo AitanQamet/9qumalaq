@@ -1,0 +1,9 @@
+{
+	"images" : [
+        {"name" : "cellBlock" , "src" : "images/cell1.png"},
+        {"name" : "cellRed" , "src" : "images/cell2.png"},
+      {"name" : "winBoard" , "src" : "images/winBoard.png"},
+      {"name" : "tuzdih" , "src" : "images/tuzdih.png"},
+      {"name" : "board" , "src" : "images/board.png"}
+    ]
+}
