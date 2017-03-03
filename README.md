@@ -24,6 +24,7 @@ Note that the first seed falls back to the pit "g".</br>
 The last sown seed lands in a pit on the opponent's side and brings
 the total number of seeds in the pit to the even number (10).
 All these 10 seeds are moved to the player's kazan.</br>
+
 * If the last sown seed  lands in a pit on the opponent's side and brings the total number of seeds in the pit to three then all seeds from the pit are captured by the player and are moved to the player's kazan and the pit turns into the player's tuzdik ("sacred place" in Kazakh; or tuz in Kyrgyz, which means "salt"). There are several cases when tuzdik is not created:</br>
   1. If the player has created one tuzdik already.</br>
   2. The last pit of the opponent (his ninth or rightmost pit) cannot be turned into a tuzdik.</br>
@@ -35,6 +36,7 @@ A player takes ten seeds from his pit "F" and sows them counter-clockwise.
 The last sown seed falls in the pit "f" on the opponent's side and brings
 the total number of seeds there to three. This pit is turned
 into player's tuzdik (all three seeds are moved to player's kazan).</br>
+
 ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/6.jpg)</br>
 A player takes eleven seeds from his pit "e" and sows them counter-clockwise.
 The last sown seed falls in the pit "F" on the opponent's side and brings
@@ -42,6 +44,7 @@ the total number of seeds there to three. This pit is NOT turned
 into player's tuzdik because it is symmetrical to the opponent's tuzdik in pit "f".
 Note that during sowing one of the player's seeds felt into opponent's tuzdik (pit "f")
 and is moved to opponent's kazan.</br>
+
 * If a player doesn't have any seeds on his side on his turn then his opponent takes all remaining seeds to his kazan and the game ends.</br>
 
 ## External Links
