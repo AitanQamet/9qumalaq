@@ -30,15 +30,16 @@ All these 10 seeds are moved to the player's kazan.</br>
   2. The last pit of the opponent (his ninth or rightmost pit) cannot be turned into a tuzdik.</br>
   3. A tuzdik cannot be created if it is symmetrical to the opponent's one (for example, if your third pit is already a tuzdik, you cannot turn the third pit of your opponent into one).</br>
 
-It is permitted to make such a move, but it wouldn't create a tuzdik. All the seeds that fall into a tuzdik during sowing are captured by the tuzdik's owner and are moved to his kazan.</br>
-![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/5.jpg)</br>
-A player takes ten seeds from his pit "F" and sows them counter-clockwise.
+ It is permitted to make such a move, but it wouldn't create a tuzdik. All the seeds that fall into a tuzdik during sowing are captured by the tuzdik's owner and are moved to his kazan.</br>
+
+ ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/5.jpg)</br>
+ A player takes ten seeds from his pit "F" and sows them counter-clockwise.
 The last sown seed falls in the pit "f" on the opponent's side and brings
 the total number of seeds there to three. This pit is turned
 into player's tuzdik (all three seeds are moved to player's kazan).</br>
 
-![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/6.jpg)</br>
-A player takes eleven seeds from his pit "e" and sows them counter-clockwise.
+ ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/6.jpg)</br>
+ A player takes eleven seeds from his pit "e" and sows them counter-clockwise.
 The last sown seed falls in the pit "F" on the opponent's side and brings
 the total number of seeds there to three. This pit is NOT turned
 into player's tuzdik because it is symmetrical to the opponent's tuzdik in pit "f".
