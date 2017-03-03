@@ -54,3 +54,6 @@ and is moved to opponent's kazan.</br>
 ## External Links
 [From Wikipedia ](https://en.wikipedia.org/wiki/Toguz_korgol)
 
+## LICENSE 
+[MIT](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/LICENSE)
+
