@@ -1,8 +1,7 @@
-# nine-kumalak
-9 kumalak - The traditional intellectual game of the Kazakh 
-## Тоғыз-құмалақ — қазақтың ұлттық дәстүрлі ойындарының бірі, ақыл-ой ойыны.</br>
-[Толығын осы арадан көріңіз](https://kk.wikipedia.org/wiki/%D0%A2%D0%BE%D2%93%D1%8B%D0%B7-%D2%9B%D2%B1%D0%BC%D0%B0%D0%BB%D0%B0%D2%9B)</br>
-![9kumalak](https://github.com/aytsoft/nine-kumalak/blob/master/9qumalaq.jpg)</br>
-Алғашқы сынақ нұсқа.</br>
-This is the first version. </br>
-I hope everyone to develop this game together.
+# Toguz Kumalak ("nine pebbles")
+##### Toguz Kumalak ("nine pebbles") is the Kazakh name of a Mancala game also known as Toguz Korgool ("nine dung balls") in Kyrgyz. The number 'nine' has a high significance in the folk beliefs and mythology of Central Asian peoples. It was considered auspicious. </br>
+Toguz Kumalak is played on a special board having two rows of 9 small pits and two big pits called Kazans. The player's side is the bottom row of the small pits and the player's kazan is the top one (close to the opponent's side). </br>
+At the beginning of the game 9 seeds are placed in each small pit.</br>
+![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/9qumalaq.jpg)</br>
+[more here](https://en.wikipedia.org/wiki/Toguz_korgol)</br>
+This is the first version. Many less than the place, I hope everyone to develop together.</br>
