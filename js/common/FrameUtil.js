@@ -1,9 +1,5 @@
-/*!
- * Toguz Kumalak ("nine pebbles")
- * Copyright (c) 2017 Aytan
- * @Author:   Aytan Hamet
- * @E-mail:   aytsoft@gmail.com
- * @build:   Mon, 27 Feb 2017 15:42:26 GMT, BeiJing.
+﻿/**
+ * Created by aytsoft on 2016/9/9 15:06.
  */
 (function(){
     //帧工具类。提供当前的帧数；提供当前的真实fps。

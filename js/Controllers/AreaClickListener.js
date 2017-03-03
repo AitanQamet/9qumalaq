@@ -1,10 +1,4 @@
-/*!
- * Toguz Kumalak ("nine pebbles")
- * Copyright (c) 2017 Aytan
- * @Author:   Aytan Hamet
- * @E-mail:   aytsoft@gmail.com
- * @build:   Mon, 27 Feb 2017 15:42:26 GMT, BeiJing.
- */
+/** Created by aytsoft on 2016/9/11.*/
 (function () {
     window.AreaClickListener = Class.extend({
         //在不同范围触发点击事件 x 是cavas里的距离  width和height是作用范围
@@ -13,7 +7,7 @@
             this.canvas = canvas;
             this.canvas.addEventListener("click", function(){
                 self.dealEvents(event);
-
+				
             });
             this.events = {
                 x: x,

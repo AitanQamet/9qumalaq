@@ -1,9 +1,5 @@
-/*!
- * Toguz Kumalak ("nine pebbles")
- * Copyright (c) 2017 Aytan
- * @Author:   Aytan Hamet
- * @E-mail:   aytsoft@gmail.com
- * @build:   Mon, 27 Feb 2017 15:42:26 GMT, BeiJing.
+/**
+ * Created by aytsoft on 2016/10/17.
  */
 (function () {
     window.MainController  = Class.extend({
