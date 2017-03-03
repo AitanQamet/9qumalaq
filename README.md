@@ -25,6 +25,6 @@ The last sown seed lands in a pit on the opponent's side and brings
 the total number of seeds in the pit to the even number (10).
 All these 10 seeds are moved to the player's kazan.</br>
 * If the last sown seed  lands in a pit on the opponent's side and brings the total number of seeds in the pit to three then all seeds from the pit are captured by the player and are moved to the player's kazan and the pit turns into the player's tuzdik ("sacred place" in Kazakh; or tuz in Kyrgyz, which means "salt"). There are several cases when tuzdik is not created:</br>
-  - If the player has created one tuzdik already.</br>
-  - The last pit of the opponent (his ninth or rightmost pit) cannot be turned into a tuzdik.</br>
-  - A tuzdik cannot be created if it is symmetrical to the opponent's one (for example, if your third pit is already a tuzdik, you cannot turn the third pit of your opponent into one).</br>
+  1. If the player has created one tuzdik already.</br>
+  1. The last pit of the opponent (his ninth or rightmost pit) cannot be turned into a tuzdik.</br>
+  1. A tuzdik cannot be created if it is symmetrical to the opponent's one (for example, if your third pit is already a tuzdik, you cannot turn the third pit of your opponent into one).</br>
