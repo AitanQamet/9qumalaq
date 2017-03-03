@@ -1,0 +1,29 @@
+{
+  "name": "nine-pebbles",
+  "version": "1.0.0",
+  "description": "Toguz Kumalak (\"nine pebbles\") is the Kazakh name of a mancala game. Тоғыз-құмалақ — қазақтың ұлттық дәстүрлі ойындарының бірі, ақыл-ой ойыны.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aytsoft/ToguKumalak-ninePebbles.git"
+  },
+  "keywords": [
+    "Toguz",
+    "Kumalak",
+    "nine",
+    "pebbles",
+    "Aytan",
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "kazakh",
+    "Aytan"
+  ],
+  "author": "Aytan Hamet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aytsoft/ToguKumalak-ninePebbles/issues"
+  },
+  "homepage": "https://github.com/aytsoft/ToguKumalak-ninePebbles#readme"
+}
