@@ -43,6 +43,7 @@ into player's tuzdik because it is symmetrical to the opponent's tuzdik in pit "
 Note that during sowing one of the player's seeds felt into opponent's tuzdik (pit "f")
 and is moved to opponent's kazan.</br>
 * If a player doesn't have any seeds on his side on his turn then his opponent takes all remaining seeds to his kazan and the game ends.</br>
+
 ## External Links
 [From Wikipedia ](https://en.wikipedia.org/wiki/Toguz_korgol)
 
