@@ -7,9 +7,7 @@
  */
 (function () {
     window.MainController  = Class.extend({
-        init:function () {
-
-        },
+        init:function () {},
         update:function () {
             this.getBoardCellNumber();
         },
