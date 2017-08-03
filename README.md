@@ -1,8 +1,8 @@
-# Toguz Kumalak ("nine pebbles")
+# 9qumalaq  ("nine pebbles")
 
 ### Тоғыз-құмалақ — қазақтың ұлттық дәстүрлі ойындарының бірі, ақыл-ой ойыны.
 
-##### Toguz Kumalak ("nine pebbles") is the Kazakh name of a Mancala game also known as Toguz Korgool ("nine dung balls") in Kyrgyz. The number 'nine' has a high significance in the folk beliefs and mythology of Central Asian peoples. It was considered auspicious. </br>
+##### Toguz Kumalak (9qumalaq) ("nine pebbles") is the Kazakh name of a Mancala game also known as Toguz Korgool ("nine dung balls") in Kyrgyz. The number 'nine' has a high significance in the folk beliefs and mythology of Central Asian peoples. It was considered auspicious. </br>
 [more here](https://en.wikipedia.org/wiki/Toguz_korgol)   
 ## Install 
 ```js
@@ -16,9 +16,9 @@ npm install nine-pebbles
 
 This is the first version. Many less than the place, I hope everyone to develop together.</br>
 ## Board
-Toguz Kumalak is played on a special board having two rows of 9 small pits and two big pits called Kazans. The player's side is the bottom row of the small pits and the player's kazan is the top one (close to the opponent's side). </br>
+Toguz Kumalak (9qumalaq) is played on a special board having two rows of 9 small pits and two big pits called Kazans. The player's side is the bottom row of the small pits and the player's kazan is the top one (close to the opponent's side). </br>
 At the beginning of the game 9 seeds are placed in each small pit.</br>
-![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/2.jpg)</br>
+![9qumalaq ("nine pebbles")](https://github.com/aytsoft/9qumalaq/blob/master/disc/2.jpg)</br>
 ## Objective
 A player wins a game if he accumulates more seeds in his own kazan than the opponent.</br>
 If both players have accumulated the same number of seeds, the game ends by a draw.</br>
@@ -28,11 +28,11 @@ Players take turns sowing their seeds. The sowing is performed in the following 
 * If the chosen pit contained more than one seed then the first picked up seed is dropped back to the starting pit. Then the player continues dropping the taken seeds in counter-clockwise direction, one seed in a pit.</br>
 * If the chosen pit contained only one seed then the player drops it in the next pit in counter-clockwise direction.</br>
 Below is an example of sowing:</br>
-![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/3.jpg)</br>
+![ 9qumalaq ("nine pebbles")](https://github.com/aytsoft/9qumalaq/blob/master/disc/3.jpg)</br>
 A player takes nine seeds from his pit "g" and sows them counter-clockwise.
 Note that the first seed falls back to the pit "g".</br>
 * If the last sown seed  lands in a pit on the opponent's side and brings the total number of seeds in the pit to the even number then all seeds from the pit are captured by the player and are moved to the player's kazan.</br>
-![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/4.jpg)</br>
+![9qumalaq ("nine pebbles")](https://github.com/aytsoft/9qumalaq/blob/master/disc/4.jpg)</br>
 The last sown seed lands in a pit on the opponent's side and brings
 the total number of seeds in the pit to the even number (10).
 All these 10 seeds are moved to the player's kazan.</br>
@@ -44,13 +44,13 @@ All these 10 seeds are moved to the player's kazan.</br>
 
  It is permitted to make such a move, but it wouldn't create a tuzdik. All the seeds that fall into a tuzdik during sowing are captured by the tuzdik's owner and are moved to his kazan.</br>
 
- ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/5.jpg)</br>
+ ![9qumalaq ("nine pebbles")](https://github.com/aytsoft/9qumalaq/blob/master/disc/5.jpg)</br>
  A player takes ten seeds from his pit "F" and sows them counter-clockwise.
 The last sown seed falls in the pit "f" on the opponent's side and brings
 the total number of seeds there to three. This pit is turned
 into player's tuzdik (all three seeds are moved to player's kazan).</br>
 
- ![Toguz Kumalak ("nine pebbles")](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/disc/6.jpg)</br>
+ ![9qumalaq ("nine pebbles")](https://github.com/aytsoft/9qumalaq/blob/master/disc/6.jpg)</br>
  A player takes eleven seeds from his pit "e" and sows them counter-clockwise.
 The last sown seed falls in the pit "F" on the opponent's side and brings
 the total number of seeds there to three. This pit is NOT turned
@@ -64,5 +64,5 @@ and is moved to opponent's kazan.</br>
 [From Wikipedia ](https://en.wikipedia.org/wiki/Toguz_korgol)
 
 ## LICENSE 
-[MIT](https://github.com/aytsoft/ToguKumalak-ninePebbles/blob/master/LICENSE)
+[MIT](https://github.com/aytsoft/9qumalaq/blob/master/LICENSE)
 
