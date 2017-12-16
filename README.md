@@ -13,6 +13,9 @@ or
 ```js
 npm install nine-pebbles
 ```
+```c
+int a = 10;
+```
 
 This is the first version. Many less than the place, I hope everyone to develop together.</br>
 ## Board
